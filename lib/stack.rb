@@ -2,6 +2,7 @@ class Stack
 
   def initialize
     @stack = []
+
   end
 
   def push(value)
